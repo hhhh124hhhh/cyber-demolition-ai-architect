@@ -31,7 +31,7 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/hhhh124hhhh/cyber-demolition-ai-architect
     cd cyber-demolition
     ```
 
